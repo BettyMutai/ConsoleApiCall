@@ -15,3 +15,4 @@
 /Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ConsoleApiCall.pdb
 /Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ConsoleApiCall.genruntimeconfig.cache
 /Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ref/ConsoleApiCall.dll
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/bin/Debug/net6.0/Newtonsoft.Json.dll
