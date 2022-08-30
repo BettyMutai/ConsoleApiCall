@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rP8FjJWgNVfX2wP8PqcFVNuqceaPhw0NElnf+KG4Ni6qj8Pgr83h1TZ8xcSrj+Gna6vcYE02vv5Ic9DrKz+GUg==",
+  "dgSpecHash": "Z3hSe2A2yUPqxPWVHBtaonCwDp+Zn65IK8Ajdkzqre0itTclVJkha8TMtXZa1KjsZy3TTCKsSKUPlhLxATnOLg==",
   "success": true,
   "projectFilePath": "/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/ConsoleApiCall.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/bettymutai/.nuget/packages/restsharp/108.0.1/restsharp.108.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,17 @@
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ConsoleApiCall.csproj.AssemblyReference.cache
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ConsoleApiCall.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ConsoleApiCall.AssemblyInfoInputs.cache
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ConsoleApiCall.AssemblyInfo.cs
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ConsoleApiCall.csproj.CoreCompileInputs.cache
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/bin/Debug/net6.0/ConsoleApiCall
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/bin/Debug/net6.0/ConsoleApiCall.deps.json
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/bin/Debug/net6.0/ConsoleApiCall.runtimeconfig.json
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/bin/Debug/net6.0/ConsoleApiCall.dll
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/bin/Debug/net6.0/ConsoleApiCall.pdb
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/bin/Debug/net6.0/RestSharp.dll
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ConsoleApiCall.csproj.CopyComplete
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ConsoleApiCall.dll
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/refint/ConsoleApiCall.dll
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ConsoleApiCall.pdb
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ConsoleApiCall.genruntimeconfig.cache
+/Users/bettymutai/Desktop/Development/backend/ConsoleApiCall/obj/Debug/net6.0/ref/ConsoleApiCall.dll
